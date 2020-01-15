@@ -4,4 +4,6 @@ build
 out
 classes
 getopts.i*
-
+lib/
+*.pdf
+.idea/
